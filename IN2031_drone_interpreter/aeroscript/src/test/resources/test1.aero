@@ -1,0 +1,4 @@
+TakeOffLand {
+    ascend by 20
+    move to point (50, point (10, 20))
+ }
