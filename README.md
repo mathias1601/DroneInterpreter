@@ -1,5 +1,5 @@
 # DroneInterpreter
-An antlr parser and interpreter to read domain-specific language for giving commands to a drone
+An antlr parser and interpreter to read domain-specific language for giving commands to a drone. Made as a group project in the subject IN2031 at the University of Oslo.
 
 # How to run
 
